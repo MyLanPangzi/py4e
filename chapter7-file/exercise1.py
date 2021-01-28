@@ -7,7 +7,7 @@
 # RECEIVED: FROM MURDER (MAIL.UMICH.EDU [141.211.14.90])
 #      BY FRANKENSTEIN.MAIL.UMICH.EDU (CYRUS V2.3.8) WITH LMTPA;
 #      SAT, 05 JAN 2008 09:14:16 -0500
-fin = open('mbox-short.txt')
+fin = open('../mbox-short.txt')
 # text = fin.read()
 # print(text.upper())
 
